@@ -1,0 +1,13 @@
+package com.sunbeam.q6;
+
+public class q6 {
+//	6. Implement linear search algorithm to find the nth occurence of the given element. If nth occurrence is
+//	not found, return -1.
+	
+	int[]arr = {1,2,3,4,5,4,3,2,4,1,4,5};
+	
+	System.out.println("hi");
+	
+	
+
+}

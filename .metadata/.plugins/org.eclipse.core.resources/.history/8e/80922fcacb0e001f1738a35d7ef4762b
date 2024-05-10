@@ -1,0 +1,11 @@
+package com.sunbeam.q3;
+
+public class q3 {
+	public static void main(String[] args) {
+//		Write a program to print no of comparisions done to search a key in i. linear search ii. binary serach
+		
+		
+		
+	}
+
+}
